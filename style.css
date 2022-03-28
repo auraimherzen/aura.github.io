@@ -1,0 +1,143 @@
+
+body { background-color: whitesmoke;
+width: 13600px;}
+
+#background { 
+    background-color: black;
+    width: 7000px;
+    float: left;
+}
+
+#link1 {
+    text-decoration: none;
+    background-image: url(front3.png);
+    float: left;
+    width: 3353px;
+    height: 5000px;
+}
+
+#link1:hover {
+    background-image: url(front4.png);
+    float: left;
+    width: 3353px;
+    height: 5000px;
+}
+
+#link2 {
+    text-decoration: none;
+    background-image: url(s2_f1.png);
+    float: left;
+    width: 3353px;
+    height: 5000px;
+}
+
+/*
+#link2:hover {
+    background-image: url(front4.png);
+    float: left;
+    width: 3353px;
+    height: 5000px;
+}*/
+
+#link3 {
+    text-decoration: none;
+    background-image: url(s3_f2.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+#link4 {
+    text-decoration: none;
+    background-image: url(s4_f1.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+#link5 {
+    text-decoration: none;
+    background-image: url(s5_f1.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+#link6 {
+    text-decoration: none;
+    background-image: url(s6_f1.png);
+    float: left;
+    width: 3353px;
+    height: 5000px;
+}
+
+#link7 {
+    text-decoration: none;
+    background-image: url(s7_f1.png);
+    float: left;
+    width: 3353px;
+    height: 5000px;
+}
+
+#link8 {
+    text-decoration: none;
+    background-image: url(s8_f1.png);
+    float: left;
+    width: 3353px;
+    height: 5000px;
+}
+
+#link9 {
+    text-decoration: none;
+    background-image: url(s9_f1.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+#link9 {
+    text-decoration: none;
+    background-image: url(s10_f1.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+#link10 {
+    text-decoration: none;
+    background-image: url(s10_f1.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+#link101 {
+    text-decoration: none;
+    background-image: url(s10.1_f1.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+#linkEnd {
+    text-decoration: none;
+    background-image: url(s11_f1.png);
+    float: left;
+    width: 5000px;
+    height: 3353px;
+}
+
+
+.imgright {
+    float: left;
+    width: 3353px;
+    padding-left: -10px;
+    }
+
+.imgmiddle {
+    float: left;
+    width: 3246px;
+}
+
+
+
